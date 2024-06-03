@@ -54,7 +54,7 @@ const Project2DBuilding = () => {
          </div>
          <div className="md:ml-4">
           <Image
-            src="/Base Map.png"
+            src="/3d building.JPG"
             alt="Building Footprints capture from Ortho"
             width={2000} // adjust as needed
             height={3000} // adjust as needed

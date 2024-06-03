@@ -116,7 +116,6 @@ Management</li>
                 </div>
             </div>
         </div>
-        </div>
 
         <div
             class="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2">
@@ -171,6 +170,7 @@ Management</li>
     </div>
     <div>
       <Encryption/>
+    </div>
     </div>
 
 </div>

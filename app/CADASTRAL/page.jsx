@@ -50,13 +50,13 @@ const Project2DBuilding = () => {
             <p className="text-gray-700">
                
             </p>
-            <li className="text-gray-700  hover:bg-black hover:text-white  rounded-lg p-2">AutoCAD Map</li>
-                <li className="text-gray-700  hover:bg-black hover:text-white  rounded-lg p-2">ARC GIS</li>
+            <li className="text-gray-700  hover:bg-black hover:text-white  rounded-lg p-1">AutoCAD Map</li>
+                <li className="text-gray-700  hover:bg-black hover:text-white  rounded-lg p-1">ARC GIS</li>
           </div>
          </div>
          <div className="md:ml-4">
           <Image
-            src="/Base Map.png"
+            src="/CADASTRAL.png"
             alt="Building Footprints capture from Ortho"
             width={2500} // adjust as needed
             height={3000} // adjust as needed

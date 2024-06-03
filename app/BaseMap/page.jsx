@@ -5,7 +5,7 @@ const Project2DBuilding = () => {
   return (
     <div className="mt-10 pt-10 bg-white p-6 rounded-lg shadow-lg">
       <div className="bg-teal-500 text-white text-center py-2 rounded-t-lg">
-        <h1 className="text-xl font-bold">PROJECT-2D Building</h1>
+        <h1 className="text-xl font-bold">PROJECT- Base Map</h1>
       </div>
       <div className="">
       <div className="flex flex-col md:flex-row px-4 py-2">

@@ -39,7 +39,7 @@ After Georeferencing, digitize parcel map typically built to identify property b
          </div>
          <div className="md:ml-4">
           <Image
-            src="/Base Map.png"
+            src="/parcel map.JPG"
             alt="Building Footprints capture from Ortho"
             width={2500} // adjust as needed
             height={3000} // adjust as needed

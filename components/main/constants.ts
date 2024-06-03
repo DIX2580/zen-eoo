@@ -43,7 +43,7 @@ export const images = [
     },
     {
       id: 8,
-      src: "/Picture8.png",
+      src: "/Base Map.png",
       title: "BASEMAP (INDIA )",
       desc: "A basemap is a foundational layer used in mapping applications, providing essential geographical context such as terrain, roads, water bodies, and boundaries. It serves as a backdrop for overlaying  data. ",
     },
