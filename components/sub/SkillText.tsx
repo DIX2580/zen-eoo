@@ -10,7 +10,7 @@ const SkillText = () => {
     <div className='w-full h-auto flex flex-col items-center justify-center p-4'>
       <motion.div
         variants={slideInFromTop}
-        className="Welcome-box border border-[#7042f88b] opacity-90 p-4 md:p-6 lg:p-8 flex items-center"
+        className="Welcome-box border border-[#7042f88b] opacity-90 p-2 md:p-2 lg:p-2 flex items-center"
       >
         <SparklesIcon className="text-[#b49bff] mr-2 h-8 w-8 md:h-10 md:w-10 lg:h-12 lg:w-12" />
         <h1 className="Welcome-text text-base md:text-lg lg:text-xl">

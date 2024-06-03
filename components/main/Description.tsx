@@ -37,7 +37,7 @@ const Description = ({ activeImage, clickNext, clickPrev, isPlaying, togglePlayP
             }}
             className="w-full"
           >
-            <div className="py-16 text-5xl font-extrabold">{elem.title}</div>
+            <div className="pb-5 pt-5 text-5xl font-extrabold">{elem.title}</div>
             <div className="leading-relaxed font-medium text-base tracking-wide h-60 md:h-40 italic text-gray-600">
               {elem.desc}
             </div>
