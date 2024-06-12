@@ -1,12 +1,9 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = { 
-  
-  }
+const nextConfig = {
+  images: {
+      // Uncomment and configure domains if you need to handle external images
+      // domains: ['example.com'],
+  },
+};
 
-
-module.exports = nextConfig
-module.exports = {
-    images: {
-      
-    },
-  };
+module.exports = nextConfig;
