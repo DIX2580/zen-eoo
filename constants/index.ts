@@ -2,8 +2,8 @@ export const Skill_data = [
     {
       skill_name: "Qgis",
       Image: "/pngegg.png",
-      width: 200,
-      height: 200,
+      width: 150,
+      height: 150,
     },
     {
       skill_name: "ARCGIS",
